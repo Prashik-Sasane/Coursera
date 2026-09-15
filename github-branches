@@ -1,0 +1,6 @@
+git branch -avv
+  bug-fix-typo                c8d85a4 [origin/bug-fix-typo] Updated README files
+* main                        c8d85a4 [origin/main: ahead 1] Updated README files
+  remotes/origin/HEAD         -> origin/main
+  remotes/origin/bug-fix-typo c8d85a4 Updated README files
+  remotes/origin/main         ad95b0a Create close_pr.yml
