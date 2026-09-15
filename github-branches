@@ -4,3 +4,10 @@ git branch -avv
   remotes/origin/HEAD         -> origin/main
   remotes/origin/bug-fix-typo c8d85a4 Updated README files
   remotes/origin/main         ad95b0a Create close_pr.yml
+
+git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
